@@ -12,5 +12,6 @@ Most of my professional work lives in private company repos. This account is whe
 
 ## Elsewhere
 
+- Email: porchewellness@gmail.com
 - LinkedIn: [linkedin.com/in/pporche87](https://www.linkedin.com/in/pporche87/)
 - Earlier personal projects (2015–2025): [github.com/pporche87](https://github.com/pporche87)
