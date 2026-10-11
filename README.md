@@ -7,6 +7,7 @@ Most of my professional work lives in private company repos. This account is whe
 ## Projects
 
 - **[medical-necessity](https://github.com/patrickporchejr/medical-necessity)**: an agentic prior-authorization packet assembler.
+- **[algorithms-of-discretion](https://github.com/patrickporchejr/algorithms-of-discretion)**: companion code for my white paper on auditing algorithmic discretion in Texas traffic stops. A data pipeline plus an eval that measures whether a dataset datasheet changes an LLM's answers.
 - **[ai-coding-exercises](https://github.com/patrickporchejr/ai-coding-exercises)**: hands-on practice for AI engineering interviews. Build LLM evals from scratch with the Claude API, plus drills on RAG, tool-use agents, validating LLM output and data cleaning.
 
 ## Elsewhere
