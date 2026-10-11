@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick 👋🏾
 
 Senior product engineer building AI products, focused on LLM evals and observability. Based in Brooklyn, NY.
 
