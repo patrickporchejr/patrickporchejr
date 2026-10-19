@@ -1,15 +1,13 @@
 # Hi, I'm Patrick 👋🏾
 
-Senior product engineer building AI products, focused on LLM evals and observability. Based in Brooklyn, NY.
+Product engineer in health tech. I build AI tools alongside the clinicians and operators who use them, and make their behavior measurable. Based in Brooklyn, NY.
 
 Most of my professional work lives in private company repos. This account is where I share public AI side projects.
 
 ## Projects
 
-- **[medical-necessity](https://github.com/patrickporchejr/medical-necessity)**: an agentic prior-authorization packet assembler.
-- **[money-chat](https://github.com/patrickporchejr/money-chat)**: chat with your bank statements. Hybrid RAG plus SQL tool use over data that stays in your browser, using your own Claude API key.
-- **[algorithms-of-discretion](https://github.com/patrickporchejr/algorithms-of-discretion)**: auditing algorithmic discretion in Texas traffic stops. A data pipeline plus an eval that measures whether a dataset datasheet changes an LLM's answers.
-- **[ai-coding-exercises](https://github.com/patrickporchejr/ai-coding-exercises)**: hands-on practice for AI engineering interviews. Build LLM evals from scratch with the Claude API, plus drills on RAG, tool-use agents, validating LLM output and data cleaning.
+- **[medical-necessity](https://github.com/patrickporchejr/medical-necessity)**: drafts prior authorization packets for clinic reviewers, with every claim linked to the chart record behind it and checked before a person sees it.
+- **[money-chat](https://github.com/patrickporchejr/money-chat)**: ask questions about your bank statements in plain English, with exact totals and data that never leaves your browser. [Live site](https://money-chat-sigma.vercel.app).
 
 ## Elsewhere
 
